@@ -4,4 +4,8 @@ Makefile.PL
 MANIFEST
 README
 t/01-use.t
+t/10-diz.t
+t/99-pod.t
+t/data/test.txt
+t/data/test.zip
 META.yml                                 Module meta-data (added by MakeMaker)
