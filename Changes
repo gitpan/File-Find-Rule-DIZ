@@ -1,5 +1,8 @@
 Revision history for Perl extension File::Find::Rule::DIZ.
 
+0.05  Wed Mar 02 2005
+	- added pod_coverage test
+
 0.04  Tue Dec 07 2004
 	- new tests
 	- pod cleanup
