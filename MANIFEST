@@ -1,6 +1,7 @@
 Changes
-DIZ.pm
+lib/File/Find/Rule/DIZ.pm
 Makefile.PL
 MANIFEST
 README
-test.pl
+t/01-use.t
+META.yml                                 Module meta-data (added by MakeMaker)

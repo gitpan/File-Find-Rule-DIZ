@@ -1,5 +1,9 @@
 Revision history for Perl extension File::Find::Rule::DIZ.
 
+0.02  Sat Feb 07 2004
+	- Re-organized distribution
+	- moved to Test::More
+
 0.01  Tue Mar 11 10:49:03 2003
 	- original version; created by h2xs 1.21 with options
 		-AX File::Find::Rule::DIZ
