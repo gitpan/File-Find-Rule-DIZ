@@ -1,5 +1,9 @@
 Revision history for Perl extension File::Find::Rule::DIZ.
 
+0.03  Sun Feb 08 2004
+	- Added Archive::Zip requirement
+	- code cleanup
+
 0.02  Sat Feb 07 2004
 	- Re-organized distribution
 	- moved to Test::More
