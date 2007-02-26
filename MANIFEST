@@ -1,7 +1,9 @@
+Build.PL
 Changes
 lib/File/Find/Rule/DIZ.pm
 Makefile.PL
-MANIFEST
+MANIFEST			This list of files
+META.yml
 README
 t/01-use.t
 t/10-diz.t
@@ -9,4 +11,3 @@ t/98-pod_coverage.t
 t/99-pod.t
 t/data/test.txt
 t/data/test.zip
-META.yml                                 Module meta-data (added by MakeMaker)
